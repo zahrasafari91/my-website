@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-website/static/css/main.b20178c9.css",
+    "main.css": "/my-website/static/css/main.3879b548.css",
     "main.js": "/my-website/static/js/main.eee7645e.js",
     "static/js/787.bbe01249.chunk.js": "/my-website/static/js/787.bbe01249.chunk.js",
     "static/media/Dayflow-Abstract.png": "/my-website/static/media/Dayflow-Abstract.21ed8a96afbfee4c4aba.png",
@@ -9,12 +9,12 @@
     "static/media/logo.svg": "/my-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "static/media/dots-bg.svg": "/my-website/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
     "index.html": "/my-website/index.html",
-    "main.b20178c9.css.map": "/my-website/static/css/main.b20178c9.css.map",
+    "main.3879b548.css.map": "/my-website/static/css/main.3879b548.css.map",
     "main.eee7645e.js.map": "/my-website/static/js/main.eee7645e.js.map",
     "787.bbe01249.chunk.js.map": "/my-website/static/js/787.bbe01249.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b20178c9.css",
+    "static/css/main.3879b548.css",
     "static/js/main.eee7645e.js"
   ]
 }
